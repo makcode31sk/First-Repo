@@ -1,6 +1,6 @@
 # GITHUB API TESTING
 
-## TESTING WITH GTK
+## TESTING WITH GTK (new)
 
 ## Description
 This is a placeholder description for the project.
