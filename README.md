@@ -1,6 +1,6 @@
 # GITHUB API TESTING
 
-## TESTING WITH GTK (new)
+## TESTING WITH SEPOLIA
 
 ## Description
 This is a placeholder description for the project.
