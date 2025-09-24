@@ -9,3 +9,4 @@ Forth Test
 Hehe  
 Demo new  
 Control Shift
++ m
